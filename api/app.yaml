@@ -1,0 +1,11 @@
+runtime: python
+service: api
+env: flex
+
+runtime_config:
+  python_version: 3
+
+entrypoint: gunicorn main:app --workers 1 --threads 8 --timeout 0
+
+automatic_scaling:
+  max_num_instances: 1
