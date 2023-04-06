@@ -1,3 +1,5 @@
 Flask
 pymysql
 Flask-RESTx
+gunicorn
+SQLAlchemy
