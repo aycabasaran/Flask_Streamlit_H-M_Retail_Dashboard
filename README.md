@@ -7,11 +7,10 @@ This capstone project is a cloud-based, microservices application architecture d
 ## Features
 
 1. **In-depth Data Analysis**: Comprehensive understanding of the H&M dataset, generating valuable KPIs that provide actionable insights for the business.
-2. **Scalable Database Solution**: Deployment of a MySQL and/or MongoDB database in Google Cloud SQL, containing all required datasets, ensuring reliability and scalability.
+2. **Scalable Database Solution**: Deployment of a MySQL database in Google Cloud SQL, containing all required datasets, ensuring reliability and scalability.
 3. **Secure Back-end Integration**: A Flask API service deployed on Google App Engine, providing secure access to data through API key authentication.
-4. **Interactive Front-end Dashboard**: A Streamlit web application deployed on Google App Engine, offering an interactive and visually appealing dashboard with user authentication.
-5. **Thorough Documentation and Code Structure**: Comprehensive documentation, well-structured code, and an organized GitHub repository for easy navigation and understanding.
-6. **Robust and Creative Solution**: A solid, innovative solution that goes beyond the basic requirements, showcasing technical proficiency and creativity.
+4. **Interactive Front-End Dashboard**: A Streamlit web application deployed on Google App Engine, offering an interactive and visually appealing dashboard with user authentication.
+5. **Sleek User Authentication**: Secure and streamlined user authentication, ensuring only authorized individuals can access the interactive dashboard and data.
 
 ## Getting Started
 
