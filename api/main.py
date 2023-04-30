@@ -10,10 +10,10 @@ API_KEY = "supersecret"
 
 # Database connection parameters
 db_config = {
-    "host": "34.133.174.225",
-    "user": "root",
-    "password": "Kostenkele",
-    "database": "main",
+    "host": ".....",
+    "user": ".....",
+    "password": "......",
+    "database": "......",
 }
 
 def init_app():
